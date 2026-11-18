@@ -20,7 +20,7 @@ Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key ele
 </details>
 
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **1장 – 인공지능과 함께하는 우리사회**  
