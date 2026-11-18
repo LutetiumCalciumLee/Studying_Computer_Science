@@ -27,7 +27,7 @@ Combats privacy violations, cybercrime, copyright infringement, and information-
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **13장 – 정보보안**  
