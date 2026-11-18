@@ -42,7 +42,7 @@ NoSQL for handling unstructured big data (JSON, MongoDB).
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **9장 – 데이터베이스**  
