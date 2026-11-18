@@ -25,7 +25,7 @@ Fingerprinting (consumer-unique codes in media), watermarking (embedded owner in
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **12장 – 멀티미디어 개론**  
