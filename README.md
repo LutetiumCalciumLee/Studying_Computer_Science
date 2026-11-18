@@ -26,7 +26,7 @@ Computers are classified based on size, performance, and use cases: from persona
 </details>
 
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **2장 – 컴퓨터 개요**  
