@@ -121,11 +121,11 @@ This repository contains my notes on Introduction to Computers as part of the AI
 </details>
 
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 컴퓨터 개론
-이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 컴퓨터 개론 내용을 정리하여 업로드했습니다.
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 컴퓨터 개론 내용을 정리했습니다.
 
 
 ## [**1장 – 인공지능과 함께하는 우리사회**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.01)
