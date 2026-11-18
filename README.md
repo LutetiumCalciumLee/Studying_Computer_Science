@@ -28,7 +28,7 @@ Usage of educational programming platforms like Scratch, Entry, Blockly, App Inv
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **7장 – 컴퓨팅사고력과 문제해결**  
