@@ -40,7 +40,7 @@ Emphasis on microcollege, nanodegree, industry-focused short-term training for f
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **11장 – 제4차산업혁명과 첨단기술**  
