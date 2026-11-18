@@ -33,7 +33,7 @@ Web 3.0: semantic web, intelligent web, user-centered smart context.
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **10장 – 컴퓨터 네트워크와 월드와이드웹**  
