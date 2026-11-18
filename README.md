@@ -34,7 +34,7 @@ Design of digital logic circuits starts from logic functions derived from truth 
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **3장 – 정보의 표현**  
