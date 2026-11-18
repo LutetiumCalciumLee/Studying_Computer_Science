@@ -25,7 +25,7 @@ AI development raises important issues of safety, privacy, and societal impact, 
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **6장 – 인공지능과 딥러닝**  
