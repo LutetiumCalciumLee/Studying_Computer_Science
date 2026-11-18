@@ -44,7 +44,7 @@ Compares CISC (Complex Instruction Set Computing), with more complex instruction
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **4장 – 컴퓨터 구조**  
