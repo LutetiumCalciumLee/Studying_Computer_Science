@@ -30,7 +30,7 @@ Objects consist of attributes and behaviors, modeled naturally after real-world 
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **8장 – 프로그래밍언어**  
