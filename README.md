@@ -47,7 +47,7 @@ Demonstrates Windows features:
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## **5장 – 운영체제와 활용**  
